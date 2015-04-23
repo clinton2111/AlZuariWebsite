@@ -1,0 +1,1 @@
+@l«T<?php exit; ?>a:1:{s:7:"content";a:6:{s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1407487880:1";}s:17:"_wp_page_template";a:1:{i:0;s:27:"templates/template-full.php";}s:11:"panels_data";a:1:{i:0;s:6:"a:0:{}";}s:25:"vantage_metaslider_slider";a:1:{i:0;s:0:"";}s:17:"vantage_menu_icon";a:1:{i:0;s:0:"";}}}

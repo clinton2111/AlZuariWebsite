@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=10" />
+	<title>Contact Us | Al Zuari Shipping</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://localhost/wordpress/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Al Zuari Shipping &raquo; Feed" href="http://localhost/wordpress/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Al Zuari Shipping &raquo; Comments Feed" href="http://localhost/wordpress/comments/feed/" />
+<link rel='stylesheet' id='jquery.fancybox-css'  href='http://localhost/wordpress/wp-content/plugins/fancy-box/jquery.fancybox.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='http://localhost/wordpress/wp-content/plugins/siteorigin-panels/css/front.css?ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vantage-style-css'  href='http://localhost/wordpress/wp-content/themes/vantage/style.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vantage-fontawesome-css'  href='http://localhost/wordpress/wp-content/themes/vantage/fontawesome/css/font-awesome.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-mobilenav-css'  href='http://localhost/wordpress/wp-content/themes/vantage/premium/extras/mobilenav/css/mobilenav.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vantage-premium-css'  href='http://localhost/wordpress/wp-content/themes/vantage/premium/style.css?ver=2.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/fancy-box/jquery.fancybox.js?ver=1.2.6'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/fancy-box/jquery.easing.js?ver=1.3'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/vantage/js/jquery.flexslider.min.js?ver=2.1'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/vantage/js/jquery.fitvids.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/vantage/js/jquery.theme-main.min.js?ver=2.2.3'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/vantage/premium/extras/ajax-comments/ajax-comments.min.js?ver=2.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mobileNav = {"search":{"url":"http:\/\/localhost\/wordpress","placeholder":"Search"},"text":{"navigate":"Menu","back":"Back","close":"Close"},"nextIconUrl":"http:\/\/localhost\/wordpress\/wp-content\/themes\/vantage\/premium\/extras\/mobilenav\/images\/next.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/vantage/premium/extras/mobilenav/js/mobilenav.min.js?ver=2.2.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+<link rel='shortlink' href='http://localhost/wordpress/?p=49' />
+<script type="text/javascript">
+  jQuery(document).ready(function($){
+    var select = $('a[href$=".bmp"],a[href$=".gif"],a[href$=".jpg"],a[href$=".jpeg"],a[href$=".png"],a[href$=".BMP"],a[href$=".GIF"],a[href$=".JPG"],a[href$=".JPEG"],a[href$=".PNG"]');
+    select.attr('rel', 'fancybox');
+    select.fancybox();
+  });
+</script>
+	<!--[if lt IE 9]>
+		<script src="http://localhost/wordpress/wp-content/themes/vantage/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<!--[if (gte IE 6)&(lte IE 8)]>
+		<script type="text/javascript" src="http://localhost/wordpress/wp-content/themes/vantage/js/selectivizr.js"></script>
+	<![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1" />	<style type="text/css">
+		.so-mobilenav-mobile + * { display: none; }
+		@media screen and (max-width: 480px) { .so-mobilenav-mobile + * { display: block; } .so-mobilenav-standard + * { display: none; } }
+	</style>
+	
+<!-- All in One SEO Pack 2.2.3.1 by Michael Torbert of Semper Fi Web Design[125,162] -->
+<meta name="description" itemprop="description" content="Contact us through out website or email ,call us directly." />
+
+<meta name="keywords" itemprop="keywords" content="contact,email,fax,phone" />
+
+<link rel="canonical" href="http://localhost/wordpress/contact-us/" />
+<!-- /all in one seo pack -->
+	<style type="text/css" media="screen">
+		#footer-widgets .widget { width: 50%; }
+		@media screen and (max-width: 640px) {
+			#footer-widgets .widget { width: auto; float: none; }
+		}
+	</style>
+	<style type="text/css" media="all">#pgc-49-0-0 { width:59.926% } #pgc-49-0-1 { width:40.074% } #pg-49-0 .panel-grid-cell { float:left } .panel-grid-cell .panel { margin-bottom: 35px } .panel-grid-cell .panel:last-child { margin-bottom: 0 !important } .panel-grid { margin: 0 -15px 0 -15px } .panel-grid-cell { padding: 0 15px 0 15px } @media (max-width:780px) { #pg-49-0 .panel-grid-cell { float:none } #pg-49-0 .panel-grid-cell { width:auto } #pgc-49-0-0 { margin-bottom:35px } .panel-grid { margin-left: 0 !important; margin-right: 0 !important; } .panel-grid-cell { padding: 0 !important; }  } </style><style type='text/css'>
+#main {
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+</style>
+<style type="text/css" id="vantage-footer-widgets">#footer-widgets aside { width : 50%; } </style> <style type="text/css" id="customizer-css">#page-title, article.post .entry-header h1.entry-title, article.page .entry-header h1.entry-title { font-size: 25px } .entry-content { font-size: 16px } #main { background-image: url("http://localhost/wordpress/wp-content/uploads/2014/09/StraitOfHurmuz_lg.jpg") } </style></head>
+
+<body class="page page-id-49 page-template page-template-templatestemplate-full-php siteorigin-panels responsive layout-full no-js has-menu-search mobilenav">
+
+
+<div id="page-wrapper">
+
+	
+	<header id="masthead" class="site-header" role="banner">
+
+	<div class="hgroup full-container">
+		<a href="http://localhost/wordpress/" title="Al Zuari Shipping" rel="home" class="logo"><img src="http://localhost/wordpress/wp-content/uploads/2014/08/Untitled-1.png"  width="120"  height="79"  alt="Al Zuari Shipping Logo"  data-retina-image="http://localhost/wordpress/wp-content/uploads/2014/09/Retina-Logo.png"  /></a>
+
+		
+			<div class="support-text">
+				Phone: +9716 5285111/5281411			</div>
+
+		
+	</div><!-- .hgroup.full-container -->
+
+	<nav role="navigation" class="site-navigation main-navigation primary use-sticky-menu">
+	<div class="full-container">
+					<div id="search-icon">
+				<div id="search-icon-icon"><div class="vantage-icon-search"></div></div>
+				<form method="get" class="searchform" action="http://localhost/wordpress/" role="search">
+					<input type="text" class="field" name="s" value="" />
+				</form>
+			</div>
+		
+		<div id="so-mobilenav-standard-1" data-id="1" class="so-mobilenav-standard"></div><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="/wordpress/"><span class="icon"></span>Home</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://localhost/wordpress/gallery/">Gallery</a></li>
+<li id="menu-item-257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257"><a href="/wordpress/our-services/"><span class="icon"></span>Servicies</a></li>
+<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://localhost/wordpress/clients/">Clients</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://localhost/wordpress/about-us/">About Us</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-49 current_page_item menu-item-51"><a href="http://localhost/wordpress/contact-us/">Contact Us</a></li>
+</ul></div><div id="so-mobilenav-mobile-1" data-id="1" class="so-mobilenav-mobile"></div><div class="menu-mobilenav-container"><ul id="mobile-nav-item-wrap-1" class="menu"><li><a href="#" class="mobilenav-main-link" data-id="1"><span class="mobile-nav-icon"></span>Menu</a></li></ul></div>	</div>
+</nav><!-- .site-navigation .main-navigation -->
+</header><!-- #masthead .site-header -->
+	
+	
+	
+	<div id="main" class="site-main">
+		<div class="full-container">
+			
+<div id="primary" class="content-area">
+	<div id="content" class="site-content" role="main">
+
+		
+			
+<article id="post-49" class="post-49 page type-page status-publish hentry post">
+
+	<div class="entry-main">
+
+		
+		<header class="entry-header">
+			<h1 class="entry-title">Contact Us</h1>
+		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<div class="panel-grid" id="pg-49-0" ><div class="panel-grid-cell" id="pgc-49-0-0" ><div class="panel widget widget_text panel-first-child panel-last-child" id="panel-49-0-0-0">			<div class="textwidget"><p><!-- Fast Secure Contact Form plugin 4.0.30 - begin - FastSecureContactForm.com --></p>
+<div style="clear:both;"></div>
+<p>Comments or questions are welcome.</p>
+<div id="FSContact1" style="width:99%; max-width:555px;">
+<form action="http://localhost/wordpress/contact-us/#FSContact1" id="fscf_form1" method="post">
+<fieldset id="fscf_form_fieldset1" style="border:1px solid black; width:99%; max-width:550px; padding:10px;">
+<legend>Contact Form</legend>
+<div id="fscf_required1">
+  <span style="text-align:left;">*</span> <span style="text-align:left;">indicates required field</span>
+</div>
+<div id="fscf_div_clear1_0" style="clear:both;">
+<div id="fscf_div_field1_0" style="clear:left; float:left; width:99%; max-width:550px; margin-right:10px;">
+<div style="text-align:left; padding-top:5px;">
+      <label style="text-align:left;" for="fscf_name1">Name:<span style="text-align:left;">*</span></label>
+    </div>
+<div style="text-align:left;">
+      <input style="text-align:left; margin:0; width:99%; max-width:250px;" type="text" id="fscf_name1" name="full_name" value=""  />
+    </div>
+</p></div>
+</div>
+<div id="fscf_div_clear1_1" style="clear:both;">
+<div id="fscf_div_field1_1" style="clear:left; float:left; width:99%; max-width:550px; margin-right:10px;">
+<div style="text-align:left; padding-top:5px;">
+      <label style="text-align:left;" for="fscf_email1">Email:<span style="text-align:left;">*</span></label>
+    </div>
+<div style="text-align:left;">
+      <input style="text-align:left; margin:0; width:99%; max-width:250px;" type="text" id="fscf_email1" name="email" value=""  />
+    </div>
+</p></div>
+</div>
+<div id="fscf_div_clear1_2" style="clear:both;">
+<div id="fscf_div_field1_2" style="clear:left; float:left; width:99%; max-width:550px; margin-right:10px;">
+<div style="text-align:left; padding-top:5px;">
+      <label style="text-align:left;" for="fscf_field1_2">Subject:<span style="text-align:left;">*</span></label>
+    </div>
+<div style="text-align:left;">
+      <input style="text-align:left; margin:0; width:99%; max-width:250px;" type="text" id="fscf_field1_2" name="subject" value=""  />
+    </div>
+</p></div>
+</div>
+<div id="fscf_div_clear1_3" style="clear:both;">
+<div id="fscf_div_field1_3" style="clear:left; float:left; width:99%; max-width:550px; margin-right:10px;">
+<div style="text-align:left; padding-top:5px;">
+      <label style="text-align:left;" for="fscf_field1_3">Message:<span style="text-align:left;">*</span></label>
+    </div>
+<div style="text-align:left;">
+      <textarea style="text-align:left; margin:0; width:99%; max-width:250px; height:120px;" id="fscf_field1_3" name="message" cols="30" rows="10" ></textarea>
+    </div>
+</p></div>
+</div>
+<div style="clear:both;"></div>
+<div style="text-align:left; padding-top:5px;">
+</div>
+<div id="fscf_captcha_image_div1" style="width:250px; height:65px; padding-top:2px;">
+      <img id="fscf_captcha_image1" style="border-style:none; margin:0; padding:0px; padding-right:5px; float:left;" src="http://localhost/wordpress/wp-content/plugins/si-contact-form/captcha/securimage_show.php?prefix=c1FU0fCM7avbS5q2" width="175" height="60" alt=" Contact Us" title="CAPTCHA Image" /><br />
+      <input id="fscf_captcha_prefix1" type="hidden" name="fscf_captcha_prefix1" value="c1FU0fCM7avbS5q2" /></p>
+<div id="fscf_captcha_refresh1">
+        <a href="#" rel="nofollow" title="Refresh Image" onclick="fscf_captcha_refresh('1','/wordpress/wp-content/plugins/si-contact-form/captcha','http://localhost/wordpress/wp-content/plugins/si-contact-form/captcha/securimage_show.php?prefix='); return false;"><br />
+        <img src="http://localhost/wordpress/wp-content/plugins/si-contact-form/captcha/images/refresh.png" width="22" height="20" alt="refresh Contact Us" style="border-style:none; margin:0; padding:0px; vertical-align:bottom;" onclick="this.blur();" title="Contact Us" /></a>
+     </div>
+</div>
+<div id="fscf_captcha_field1" style="text-align:left; padding-top:5px;">
+     <label style="text-align:left;" for="fscf_captcha_code1">CAPTCHA Code:<span style="text-align:left;">*</span></label>
+</div>
+<div style="text-align:left;">
+     <input style="text-align:left; margin:0; width:50px;" type="text" value="" id="fscf_captcha_code1" name="captcha_code"  />
+</div>
+<div style="display:none;">
+     <label for="birthday1"><small>Leave this field empty</small></label><br />
+     <input type="text" name="birthday" id="birthday1" value="" />
+</div>
+<div id="fscf_submit_div1" style="text-align:left; clear:both; padding-top:15px;">
+		<input type="submit" id="fscf_submit1" style="cursor:pointer; margin:0;" value="Send"  onclick="this.disabled=true; this.value='Submitting...'; this.form.submit();" />
+</div>
+</fieldset>
+<p><input type="hidden" name="fscf_submitted" value="0" /><br />
+<input type="hidden" name="fs_postonce_1" value="8c79c887e351d0a8120bbabe61bd082f,1420520332" /><br />
+<input type="hidden" name="si_contact_action" value="send" /><br />
+<input type="hidden" name="form_id" value="1" /><br />
+<input type="hidden" name="mailto_id" value="1" /></p>
+</form>
+</div>
+<div style="clear:both;"></div>
+<p><!-- Fast Secure Contact Form plugin 4.0.30 - end - FastSecureContactForm.com --></p>
+</div>
+		</div></div><div class="panel-grid-cell" id="pgc-49-0-1" ><div class="panel widget widget_text panel-first-child panel-last-child" id="panel-49-0-1-0"><h3 class="widget-title">Our Office</h3>			<div class="textwidget"><p>Al Zuari Shipping Company L.L.C<br />
+P.O. Box 5615<br />
+Sharjah<br />
+United Arab Emirates</p>
+<p>Phone: +9716 5285111/5281411<br />
+Fax: +9716 5285018<br />
+Email: alzuari@emirates.net.ae</p>
+</div>
+		</div></div></div>					</div><!-- .entry-content -->
+
+		
+	</div>
+
+</article><!-- #post-49 -->
+			
+		
+	</div><!-- #content .site-content -->
+</div><!-- #primary .content-area -->
+
+					</div><!-- .full-container -->
+	</div><!-- #main .site-main -->
+
+	
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+	<div id="footer-widgets" class="full-container">
+		<aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-49 current_page_item menu-item-82"><a href="http://localhost/wordpress/contact-us/">Contact and Enquiry</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="http://localhost/wordpress/terms-conditions/">Terms &#038; Conditions</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://localhost/wordpress/about-us/">About Us</a></li>
+<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="http://localhost/wordpress/sitemap/">Sitemap</a></li>
+</ul></div></aside><aside id="search-3" class="widget widget_search"><h3 class="widget-title">Search</h3>
+<form method="get" id="searchform" action="http://localhost/wordpress/" role="search">
+	<label for="s" class="assistive-text">Search</label>
+	<input type="text" class="field" name="s" value="" id="s" placeholder="Search" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form>
+</aside>	</div><!-- #footer-widgets -->
+
+			<div id="site-info">
+			© 2014 Al Zuari Shipping LLC		</div><!-- #site-info -->
+	
+	
+</footer><!-- #colophon .site-footer -->
+	
+</div><!-- #page-wrapper -->
+
+
+<a href="#" id="scroll-to-top" title="Back To Top"><span class="vantage-icon-arrow-up"></span></a><script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/si-contact-form/includes/fscf-scripts.js?ver=163'></script>
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 38/45 queries in 0.024 seconds using disk
+Object Caching 1191/1312 objects using disk
+
+ Served from: localhost @ 2015-01-06 08:58:52 by W3 Total Cache -->

@@ -1,0 +1,8 @@
+@l«T<?php exit; ?>a:1:{s:7:"content";a:9:{s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1411111120:1";}s:17:"_wp_page_template";a:1:{i:0;s:27:"templates/template-full.php";}s:11:"panels_data";a:1:{i:0;s:983:"a:3:{s:7:"widgets";a:2:{i:0;a:4:{s:5:"title";s:0:"";s:4:"text";s:26:"[si-contact-form form='1']";s:6:"filter";s:1:"1";s:4:"info";a:4:{s:4:"grid";s:1:"0";s:4:"cell";s:1:"0";s:2:"id";s:1:"0";s:5:"class";s:14:"WP_Widget_Text";}}i:1;a:4:{s:5:"title";s:10:"Our Office";s:4:"text";s:154:"Al Zuari Shipping Company L.L.C
+P.O. Box 5615
+Sharjah
+United Arab Emirates
+
+Phone: +9716 5285111/5281411
+Fax: +9716 5285018
+Email: alzuari@emirates.net.ae";s:6:"filter";s:1:"1";s:4:"info";a:4:{s:4:"grid";s:1:"0";s:4:"cell";s:1:"1";s:2:"id";s:1:"2";s:5:"class";s:14:"WP_Widget_Text";}}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";s:1:"2";s:5:"style";a:7:{s:5:"class";s:0:"";s:10:"top_border";s:0:"";s:13:"bottom_border";s:0:"";s:10:"background";s:0:"";s:16:"background_image";s:0:"";s:23:"background_image_repeat";s:0:"";s:9:"no_margin";s:0:"";}}}s:10:"grid_cells";a:2:{i:0;a:2:{s:6:"weight";s:18:"0.5992563095400172";s:4:"grid";s:1:"0";}i:1;a:2:{s:6:"weight";s:18:"0.4007436904599828";s:4:"grid";s:1:"0";}}}";}s:25:"vantage_metaslider_slider";a:1:{i:0;s:0:"";}s:17:"vantage_menu_icon";a:1:{i:0;s:0:"";}s:17:"_aioseop_keywords";a:1:{i:0;s:23:"Contact,Email,Fax,Phone";}s:20:"_aioseop_description";a:1:{i:0;s:58:"Contact us through out website or email ,call us directly.";}s:14:"_aioseop_title";a:1:{i:0;s:10:"Contact Us";}}}
